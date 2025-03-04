@@ -11,6 +11,7 @@
     "preview": "rsbuild preview"
   },
   "dependencies": {
+    "@tanstack/react-router": "^1.112.7",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
@@ -19,6 +20,7 @@
     "@rsbuild/core": "^1.2.11",
     "@rsbuild/plugin-react": "^1.1.1",
     "@tailwindcss/postcss": "^4.0.9",
+    "@tanstack/router-plugin": "^1.112.7",
     "@tauri-apps/cli": "^2.3.1",
     "@types/react": "^19.0.10",
     "@types/react-dom": "^19.0.4",
